@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 <h1 style="font-family: Arial, sans-serif; color: #333;">Shahadath Hossen Sajib</h1>
 <p style="font-family: Arial, sans-serif;">QA Enginner 💻</p>
 
-<h2 style="font-family: Arial, sans-serif; color: #333;">Contact</h2>
-<ul style="font-family: Arial, sans-serif; list-style-type: none; padding: 0;">
-  <li style="margin-bottom: 10px;">Email: <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>
-  <li style="margin-bottom: 10px;">LinkedIn: <a href="https://www.linkedin.com/in/shahadathhs" target="_blank">https://www.linkedin.com/in/shahadathhs</a></li>
-  <li style="margin-bottom: 10px;">GitHub: <a href="https://github.com/shahadathhs" target="_blank">https://github.com/shahadathhs</a></li>
-</ul>
+<li style="margin-bottom: 10px;">GitHub: <a href="https://github.com/shahadathhs" target="_blank">https://github.com/shahadathhs</a></li>
